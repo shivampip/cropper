@@ -1,0 +1,1 @@
+{"version":3,"sources":["HiPainter.css"],"names":[],"mappings":"AAAA,QACC,UAAW,CACX,WACD,CAEA,cACC,cACD","file":"main.9bb2a136.chunk.css","sourcesContent":[".dotBtn {\n\twidth: 25px;\n\theight: 25px;\n}\n\n.dotBtn:hover {\n\tcursor: pointer;\n}\n"]}
